@@ -1,0 +1,8 @@
+*
+!keyframes/
+!keyframes/*.png
+!keyframes/*.jpg
+!keyframes/*.jpeg
+!keyframes/*.webp
+!README.md
+!.gitignore
